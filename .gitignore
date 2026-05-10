@@ -73,3 +73,6 @@ poetry.lock
 
 # Claude
 CLAUDE.md
+
+*.csv
+*data/
